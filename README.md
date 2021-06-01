@@ -9,4 +9,5 @@
   - [PHP annotations reader](https://github.com/grajewsky/annotations)
   - [Gooyer Framework - PHP 8 & Swoole](https://github.com/gooyer)
   - [PHP API Mocker](https://github.com/letme-proto)
+  - [Angular CLI on Docker](https://github.com/grajewsky/ng-cli-docker)
 
