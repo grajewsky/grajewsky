@@ -5,7 +5,7 @@
 📫 email: grajewski.lukasz@wp.pl
 
 #### 🏆 Projects:
-- [Markdown editor](https://gssc.pl/markdown-editor) 
+- [Markdown Notes](https://gssc.pl/markdown-notes) 
 
 #### 👨‍💻 Open source:
   - [PHP package testing tool on Docker](https://github.com/grajewsky/php-docker-testing)
