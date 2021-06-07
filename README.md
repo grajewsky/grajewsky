@@ -19,3 +19,6 @@
  
 #### ⚙️ Angular
   - [Angular CLI on Docker](https://github.com/grajewsky/ng-cli-docker)
+
+
+![](https://komarev.com/ghpvc/?username=grajewsky&color=blue)
